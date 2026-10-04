@@ -1,2 +1,2 @@
-# Project X - Course Y
-Write an overview of this repo and your project here.
+# Project Marine Microplastic Accumulation - Course CSC1171
+Can ocean currents predict future marine microplastic accumulation hotspots?
