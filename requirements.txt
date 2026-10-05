@@ -1,1 +1,5 @@
-# Write your project dependencies here, one per line.
+numpy
+pandas
+matplotlib
+scikit-learn
+jinja2
